@@ -172,7 +172,7 @@ public class View extends JComponent {
 		myName.setPreferredSize(tempSize2);
 		myName.setHorizontalAlignment(JLabel.CENTER);
 		infoPanel.add(myName);
-		JLabel id = new JLabel("Student ID: 20507802");
+		JLabel id = new JLabel("********");
 		id.setFont(new Font("Courier New", Font.PLAIN, (int)(newSize.getHeight()*0.02)));
 		id.setForeground(Color.WHITE);
 		id.setHorizontalAlignment(JLabel.CENTER);
